@@ -1,0 +1,55 @@
+{
+  "items": [
+
+    {
+      "name": "Item1",
+      "price": 10,
+      "quantity": 30,
+      "collection": "Fall",
+      "type": "bracelet"
+    },
+    {
+      "name": "Item2",
+      "price": 15,
+      "quantity": 20,
+      "collection": "Fall",
+      "type": "earrings"
+    },
+    {
+      "name": "Item3",
+      "price": 20,
+      "quantity": 10,
+      "collection": "Halloween",
+      "type": "bracelet"
+    },
+    {
+      "name": "Item4",
+      "quantity": 15,
+      "collection": "Christmas",
+      "type": "anklets"
+    },
+    {
+      "name": "Item5",
+      "price": 20,
+      "quantity": 20,
+      "collection": "Christmas",
+      "type": "necklace"
+    }
+
+  ],
+  "collections": [
+    {
+      "name": "Fall Collection",
+      "body": "20 items"
+
+    },
+    {
+      "name": "Halloween Collection",
+      "body": "10 items"
+    },
+    {
+      "name": "Christmas Colection",
+      "body": "15 items"
+    }
+  ]
+}

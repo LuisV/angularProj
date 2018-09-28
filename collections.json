@@ -1,0 +1,17 @@
+{
+  "collections": [
+    {
+      "name": "Fall Collection",
+        "body": "20 items"
+
+    },
+    {
+      "name": "Halloween Collection",
+      "body": "10 items"
+    },
+    {
+      "name": "Christmas Colection",
+      "body": "15 items"
+    }
+  ]
+}
